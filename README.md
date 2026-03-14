@@ -1,4 +1,4 @@
-# nvfp4up (hybridai-nfvp4up) [nvfp4.hybridai.click](nvfp4.hybridai.click)
+# nvfp4up [nvfp4.hybridai.click](htpps://nvfp4up.hybridai.click)
 
 nvfp4up is a Python-based Terminal User Interface (TUI) designed to provision, manage, and deeply monitor NVFP4-optimized Large Language Models (LLMs) across local and cloud-based Nvidia Blackwell hardware.
 
