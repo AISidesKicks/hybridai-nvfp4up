@@ -1,8 +1,8 @@
 # Agent Guidelines
 
-## Al development of this project is done in conda envorment
-conda envriroment hybridai-nvfp4up
-source ./hybridai-nvfp4up_env_up.sh to get up
+## AI development of this project is done in conda environment
+conda environment hybridai-nvfp4up
+source ./hybridai-nvfp4up_env_up.sh to get started
 
 ## Conventional Commits
 
