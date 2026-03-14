@@ -20,8 +20,8 @@ git clone [https://github.com/your-org/hybridai-nvfp4.git](https://github.com/yo
 cd hybridai-nvfp4up
 
 # Create and activate the conda environment
-conda create -n hybridai-nvfp4 python=3.12 -y
-conda activate hybridai-nvfp4
+conda create -n hybridai-nvfp4up python=3.12 -y
+conda activate hybridai-nvfp4up
 
 # Install TUI dependencies
 pip install textual textual-plotext
