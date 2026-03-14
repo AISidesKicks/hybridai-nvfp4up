@@ -21,7 +21,12 @@ cd hybridai-nvfp4up
 
 # Create and activate the conda environment
 conda create -n hybridai-nvfp4up python=3.12 -y
-conda activate hybridai-nvfp4up
+
+# Populate your .env with your keys
+cp .env.sample .env
+
+# Soucer env setup - this will aslo activate the conda environment
+source ./nvfp4_env_up.sh
 
 # Install TUI dependencies
 pip install textual textual-plotext
