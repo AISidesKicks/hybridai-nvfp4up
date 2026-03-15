@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Nemotron 3 Super NVFP4 Guide',
   description: 'Deployment guide for NVIDIA Nemotron 3 Super in NVFP4 format',
   // Output directly to the docs directory (which is two levels up from web/)
-  outDir: '../../docs',
+  outDir: '../docs',
   srcDir: 'src',
   themeConfig: {
     nav: [
